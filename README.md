@@ -2,7 +2,7 @@
 ## State budgetary institution of the libraies of the Vyborg's district 
 ## test task
 
-__To run the app .env file is required with next variables:__
+__The app starting requires .env file with next variables:__
  - DB_NAME
  - DB_USERNAME
  - DB_PASSWORD
